@@ -1,6 +1,5 @@
 import React from 'react';
-import { Button } from '@tuomo/common';
-import logo from './logo.svg';
+import { Button } from '@purebase/common';
 import './App.css';
 
 function App() {

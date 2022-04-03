@@ -5,7 +5,7 @@ type Props = {
 };
 
 const Button: FC<Props> = (props) => {
-    return <button style={{ 'color': props.textColor }}>{props.children}</button>
+    return <button style={{ 'color': props.textColor }}>{props.children}abcd</button>
 };
 
 export default Button;
