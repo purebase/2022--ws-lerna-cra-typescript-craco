@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "incremental": true,
     "lib": [
       "dom",
       "dom.iterable",
@@ -13,6 +13,7 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noFallthroughCasesInSwitch": true,
+    "target": "es2019",
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
